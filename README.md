@@ -4,9 +4,9 @@
 - And I'm very familiar with blockchain development language such as Solidity, Rust.
 - 💞️  I’m looking to collaborate on the Website and Mobile development for the company administration strategic plan to improve the business strategic management.
 - 📫 How to reach me ... 
-      My Skype ID: live:.cid.6b121942f3393f36
-      Discord: @odotf#2350
-      Telegram: @odotf97
+      :white_check_mark: My Skype ID: live:.cid.6b121942f3393f36
+      :white_check_mark: Discord: @odotf#2350
+      :white_check_mark: Telegram: @odotf97
 - Please contact me
 
 <!---
