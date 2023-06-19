@@ -6,7 +6,7 @@
 - 📫 How to reach me ... 
       :white_check_mark: My Skype ID: live:.cid.6b121942f3393f36
       :white_check_mark: Discord: @odotf#2350
-      :white_check_mark: Telegram: @odotf97
+      :white_check_mark: Telegram: +1 579 566 8497
 - Please contact me
 
 <!---
