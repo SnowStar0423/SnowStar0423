@@ -1,3 +1,4 @@
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SnowStar0423&repo=SnowStar0423&show_owner=true)](https://github.com/SnowStar0423/SnowStar0423)
 - 👋 Hi, I’m a senior AI and Mobile Developer.
 - 👀 I’m interested in the Mobile, AI, Blockchain and Backend development, as so I'm IT specialist.
 - 🌱 I’m currently learning the Native (Android and iOS) and Hybrid (Flutter & React Native) mobile app development languages and frameworks, and I have many experiences in the eCommerce Site and Control Panel using Laravel, Node.js, Express.js. Python, Django, GraphQl, React.js, Vue.js and other JS frameworks.
