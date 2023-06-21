@@ -1,4 +1,4 @@
-![SnowStar's Github stats](https://github-readme-stats.vercel.app/api?username=SnowStar0423&theme=highcontrast&show_icons=true&count_private=false&hide=contribs)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=SnowStar0423&theme=transparent&show_icons=true&count_private=false&hide=contribs,prs)
 
 - 👋 Hi, I’m a senior AI and Mobile Developer.
 - 👀 I’m interested in the Mobile, AI, Blockchain and Backend development, as so I'm IT specialist.
