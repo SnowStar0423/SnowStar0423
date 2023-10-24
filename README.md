@@ -1,4 +1,10 @@
 <!---![SnowStar0423's Github stats](https://github-readme-stats.vercel.app/api?username=SnowStar0423&theme=chartreuse-dark&show_icons=true&count_private=true&hide=contribs,prs)--->
+[![My Skills](https://skillicons.dev/icons?i=aws,vue,dart,flutter,css,html,git,github,gitlab,docker,go,grafana,graphql,js,laravel,nestjs,nginx,nodejs,nuxtjs,php,postgres,prometheus,svelte,tailwind,ts,vscode&perline=12)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowStar0423&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowStar0423&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👋 Hi, I’m a senior AI and Mobile Developer.
 - 👀 I’m interested in the Mobile, AI, Blockchain and Backend development, as so I'm IT specialist.
